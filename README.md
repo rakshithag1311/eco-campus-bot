@@ -39,5 +39,5 @@ npm run dev
 🌍 Our Goal
 To make sustainability on campus simple, accessible, and part of everyday student life.
 «One question. One better choice. One greener campus. 🌱»
-
-Built with 💚 eco-campus
+Project name: ECO-CAMPUS
+Build by: Rakshitha Gupthe
